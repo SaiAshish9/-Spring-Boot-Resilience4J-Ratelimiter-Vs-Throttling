@@ -25,3 +25,11 @@ https://jmeter.apache.org/
 ```
 If we want to test load testing and hit the service concurrently for long time , we can use jmeter
 ```
+
+```
+apache-jmeter-5.5.zip	sha512	pgp
+
+cd apache-jmeter-5.5/
+
+bin/jmeter.sh
+```
